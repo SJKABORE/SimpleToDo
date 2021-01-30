@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     public static final int EDIT_TEXT_CODE = 20;
     // changes here
     List<String> items;
-
+    // more changes
     Button btnAdd;
     EditText etItem;
     RecyclerView rvItems;
